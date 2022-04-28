@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb827E3493f376cC1FC682Fec3BC0aF0E262320c6",
+  "SCAN_LINK": "https://polygonscan.com/address/0xb827e3493f376cc1fc682fec3bc0af0e262320c6",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Sperm Babies",
+  "SYMBOL": "SB",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/sperm-babies",
+  "SHOW_BACKGROUND": true
+}
